@@ -1,0 +1,21 @@
+{
+  "name": "node_js_2023",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JailsonSantos/Node_JS_2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JailsonSantos/Node_JS_2023/issues"
+  },
+  "homepage": "https://github.com/JailsonSantos/Node_JS_2023#readme"
+}

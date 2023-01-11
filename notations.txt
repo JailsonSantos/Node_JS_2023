@@ -1,0 +1,11 @@
+* Instalando as dependências
+
+* INICIANDO UM PROJETO
+- npm init -y
+
+# UTILIZANDO O HTTPie para rodar comandos no terminal HTTP
+- https://httpie.io/product (documentation)
+-  http localhost:3333
+
+# Streams
+- Conceito de Streams pode ler partes de um arquivo enquanto ele ainda esta sendo feito upload
